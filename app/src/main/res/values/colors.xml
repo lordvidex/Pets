@@ -25,4 +25,7 @@
 
     <!-- Primary dark color for the editor -->
     <color name="editorColorPrimaryDark">#394450</color>
+
+    <!--Black color to be used for displaying name of Pets-->
+    <color name="pureBlack">#000000</color>
 </resources>
